@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel>
+<title>早八播客情报</title>
+<link>https://kw64tnzgcv-wq.github.io/podcast-intel-audio</link>
+<description>科技、商业与 AI 节目的个人通勤摘要。</description>
+<language>zh-cn</language>
+<item>
+  <title>早八第 01 期：AI 能生产，但谁负责把东西卖出去？</title>
+  <guid>https://kw64tnzgcv-wq.github.io/podcast-intel-audio/audio/2026-07-31-brief-01.mp3</guid>
+  <link>https://kw64tnzgcv-wq.github.io/podcast-intel-audio</link>
+  <pubDate>Fri, 31 Jul 2026 10:40:35 GMT</pubDate>
+  <description>今天把两期节目放在一起看，一个讲一人公司，一个讲拼多多。
+
+现在最热的说法是，一个人加一堆 AI 工具，就能拥有产品、运营、营销和客服，像开了一家公司。但问题是，AI 会写代码、做图片、生成方案，却还不会自动告诉你：客户是谁，他为什么付钱，你去哪里找到他。
+
+拼多多的历史恰好说明，生意最难的往往不是生产，而是分发。它找到了被主流电商忽视、对价格非常敏感的人群</description>
+  <enclosure url="https://kw64tnzgcv-wq.github.io/podcast-intel-audio/audio/2026-07-31-brief-01.mp3" length="529488" type="audio/mpeg" />
+</item>
+</channel></rss>
